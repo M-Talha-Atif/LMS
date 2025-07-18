@@ -5,7 +5,6 @@ target/
 !**/src/test/**/target/
 
 ### STS ###
-.env
 .apt_generated
 .classpath
 .factorypath
@@ -31,4 +30,5 @@ build/
 !**/src/test/**/build/
 
 ### VS Code ###
-.vscode/
+config.bat
+node_modules
